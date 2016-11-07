@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt.sdk"
+      label="%featureName"
+      version="8.0.0.201109151620"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/tools/cdt/releases/indigo"/>
+   </url>
+
+   <includes
+         id="org.eclipse.cdt.platform.source"
+         version="8.0.0.201109151620"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.build.source"
+         version="8.0.0.201109151620"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.debug.source"
+         version="7.1.0.201109151620"/>
+
+   <includes
+         id="org.eclipse.cdt.gnu.dsf.source"
+         version="4.0.0.201109151620"/>
+
+   <includes
+         id="org.eclipse.cdt.gdb.source"
+         version="7.0.0.201109151620"/>
+
+   <includes
+         id="org.eclipse.cdt"
+         version="8.0.0.201109151620"/>
+
+   <plugin
+         id="org.eclipse.cdt.sdk"
+         download-size="15"
+         install-size="32"
+         version="8.0.0.201109151620"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.doc.isv"
+         download-size="1639"
+         install-size="2475"
+         version="5.1.0.201109151620"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt.xlc.feature"
+      label="%featureName"
+      version="6.3.1.201202111925"
+      provider-name="%providerName"
+      plugin="org.eclipse.cdt.managedbuilder.xlc.core"
+      image="eclipse_update_120.jpg">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://download.eclipse.org/tools/cdt/releases/indigo"/>
+   </url>
+
+   <plugin
+         id="org.eclipse.cdt.errorparsers.xlc"
+         download-size="5"
+         install-size="8"
+         version="5.0.100.201202111925"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.managedbuilder.xlc.ui"
+         download-size="56"
+         install-size="225"
+         version="6.3.1.201202111925"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.make.xlc.core"
+         download-size="56"
+         install-size="115"
+         version="5.1.1.201202111925"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.managedbuilder.xlc.core"
+         download-size="9"
+         install-size="12"
+         version="5.0.1.201202111925"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.core.lrparser.xlc"
+         download-size="257"
+         install-size="495"
+         version="5.1.0.201202111925"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.managedbuilder.xlupc.ui"
+         download-size="13"
+         install-size="40"
+         version="1.1.0.201202111925"
+         unpack="false"/>
+
+</feature>

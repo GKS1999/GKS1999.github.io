@@ -1,0 +1,3 @@
+---
+BUNDLE_PATH: vendor/bundle^C
+BUNDLE_DISABLE_SHARED_GEMS: true

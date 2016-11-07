@@ -1,0 +1,22 @@
+[
+{
+ "name" : "Daniel Grzesik",
+ "pozycja" : "obrońca/pomocnik"
+},
+{
+"name" : "Łukasz Dąbrowny",
+"pozycja" : "obrońca"
+},
+{
+"name" : "Sebastian Łukomski",
+"pozycja" : "pomocnik"
+},
+{
+"name" : "Piotr Gebel",
+"pozycja" : "napastnik"
+},
+{
+"name" : "Bartosz Kolanek",
+"pozycja" : "bramkarz"
+}
+]

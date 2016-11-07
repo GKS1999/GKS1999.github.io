@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1474530046288" transient="false" shared_ur="file:configuration/org.eclipse.update/platform.xml" version="3.0">
+	<site updateable="true" url="file:/home/student/.eclipse/org.eclipse.platform_3.8_155965261/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.mylyn_feature" version="3.6.2.v20110908-0706" url="features/org.eclipse.mylyn_feature_3.6.2.v20110908-0706/" plugin-identifier="org.eclipse.mylyn">
+		</feature>
+		<feature id="org.eclipse.linuxtools.cdt.libhover" version="0.3.0.201108301805" url="features/org.eclipse.linuxtools.cdt.libhover_0.3.0.201108301805/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.dsf" version="4.0.0.201109151620" url="features/org.eclipse.cdt.gnu.dsf_4.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.platform" version="8.0.0.201109151620" url="features/org.eclipse.cdt.platform_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.debug" version="7.1.0.201109151620" url="features/org.eclipse.cdt.gnu.debug_7.1.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.build.source" version="8.0.0.201109151620" url="features/org.eclipse.cdt.gnu.build.source_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.dsf.source" version="4.0.0.201109151620" url="features/org.eclipse.cdt.gnu.dsf.source_4.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt" version="8.0.0.201109151620" url="features/org.eclipse.cdt_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.mylyn.context_feature" version="3.6.2.v20110908-0706" url="features/org.eclipse.mylyn.context_feature_3.6.2.v20110908-0706/" plugin-identifier="org.eclipse.mylyn">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.build" version="8.0.0.201109151620" url="features/org.eclipse.cdt.gnu.build_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.mylyn" version="5.2.302.v20110908-0706" url="features/org.eclipse.cdt.mylyn_5.2.302.v20110908-0706/" plugin-identifier="org.eclipse.mylyn">
+		</feature>
+		<feature id="org.eclipse.cdt.gdb" version="7.0.0.201109151620" url="features/org.eclipse.cdt.gdb_7.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.msw" version="1.0.0.201109151620" url="features/org.eclipse.cdt.msw_1.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.sdk" version="8.0.0.201109151620" url="features/org.eclipse.cdt.sdk_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.linuxtools.callgraph" version="0.0.2.201108301805" url="features/org.eclipse.linuxtools.callgraph_0.0.2.201108301805/">
+		</feature>
+		<feature id="org.eclipse.cdt.platform.source" version="8.0.0.201109151620" url="features/org.eclipse.cdt.platform.source_8.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.xlc.feature" version="6.3.0.201109151620" url="features/org.eclipse.cdt.xlc.feature_6.3.0.201109151620/" plugin-identifier="org.eclipse.cdt.managedbuilder.xlc.core">
+		</feature>
+		<feature id="org.eclipse.cdt.debug.gdbjtag" version="7.0.0.201109151620" url="features/org.eclipse.cdt.debug.gdbjtag_7.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.build.crossgcc" version="1.0.0.201109151620" url="features/org.eclipse.cdt.build.crossgcc_1.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.ptp.rdt.xlc" version="5.0.2.201109141657" url="features/org.eclipse.ptp.rdt.xlc_5.0.2.201109141657/">
+		</feature>
+		<feature id="org.eclipse.cdt.gnu.debug.source" version="7.1.0.201109151620" url="features/org.eclipse.cdt.gnu.debug.source_7.1.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.p2" version="1.0.0.201109151620" url="features/org.eclipse.cdt.p2_1.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.gdb.source" version="7.0.0.201109151620" url="features/org.eclipse.cdt.gdb.source_7.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.launch.remote" version="6.0.0.201109151620" url="features/org.eclipse.cdt.launch.remote_6.0.0.201109151620/">
+		</feature>
+		<feature id="org.eclipse.cdt.debug.ui.memory" version="2.1.100.201109151620" url="features/org.eclipse.cdt.debug.ui.memory_2.1.100.201109151620/">
+		</feature>
+	</site>
+</config>
